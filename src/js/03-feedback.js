@@ -1,3 +1,4 @@
+// 3 завдання
 const throttle = require('lodash.throttle');
 
 const refs = {
